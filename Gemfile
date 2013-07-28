@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'twitter', :git => 'https://github.com/sferik/twitter.git'
+
 gem 'rake'
 gem 'jruby-openssl', :platforms => :jruby
 
